@@ -1,0 +1,166 @@
+Fielder Name,Feilder Team,Match_id,batsman ,Batsman_team,Bowl detail,inning,Catch Level,fielder_id
+suyash sharma,RCB,1,Quinton De Kock,KKR,0.4,1,easy,RCBO4
+ramandeep singh,KKR,1,Virat Kolhi,RCB,5.5,2,Hard,KKRA2
+mohammad shami,SRH,2,Sanju Samson,RR,11.5,2,Moderate,SRHO3
+pat cummins,SRH,2,Shimron Hetmyer,RR,19.5,2,Moderate,SRHO2
+shivam dube,CSK,3,Surya Kumar Yadav,MI,2.3,1,Hard,CSKA1
+ravichandran ashwin,CSK,3,Surya Kumar Yadav,MI,9.5,1,Moderate,CSKA9
+sameer rizvi,DC,4,Nicholas Pooran,LSG,6.5,1,easy,DCB3
+rashid khan,GT,5,Priyansh Arya,PBKS,1.4,1,Moderate,GTA7
+kagiso rabada,GT,5,Shreyas Iyer,PBKS,16.4,1,Moderate,GTO5
+azmatullah omarzai,PBKS,5,Sai Sudharsan,GT,6.6,2,Moderate,PBKSA8
+shreyas iyer,PBKS,5,Sai Sudharsan,GT,10.5,2,Hard,PBKSB3
+harshit rana,KKR,6,Yashasvi Jaiswal,RR,4.6,1,Moderate,KKRO4
+venkatesh iyer,KKR,6,Shimron Hetmyer,RR,17.1,1,Moderate,KKRA3
+ravi bishnoi,LSG,7,Travis Head,SRH,5.1,1,Moderate,LSGO1
+nicholas pooran,LSG,7,Travis Head,SRH,5.5,1,Moderate,LSGW2
+deepak hooda,CSK,8,Rajat Patidar,RCB,11.3,1,easy,CSKA3
+rahul tripathi,CSK,8,Rajat Patidar,RCB,12.1,1,Hard,CSKB4
+khaleel ahmed,CSK,8,Rajat Patidar,RCB,12.5,1,Moderate,CSKO8
+prasidh krishna,GT,9,Mitchell Santner,MI,18.6,2,Hard,GTO7
+abishek porel,DC,10,Aniket Verma,SRH,5.2,1,Moderate,DCW2
+aniket verma,SRH,10,Jake Fraser-McGurk,DC,3.5,2,Hard,SRHB5
+pat cummins,SRH,10,Jake Fraser-McGurk,DC,4.5,2,Hard,SRHO2
+jamie overton,CSK,11,Shimron Hetmyer,RR,15.2,1,Moderate,CSKO1
+mitchell santner,MI,12,Venkatesh Iyer,KKR,3.3,1,Hard,MIA6
+ashwani kumar,MI,12,Venkatesh Iyer,KKR,4.6,1,easy,MIO2
+deepak chahar,MI,12,Rinku Singh ,KKR,7.6,1,Moderate,MIO7
+ashwani kumar,MI,12,Ramandeep Singh,KKR,14.5,1,Moderate,MIO2
+mitchell marsh,LSG,13,Priyansh Arya,PBKS,2.2,2,Hard,LSGA2
+jos buttler,GT,14,Phil Salt,RCB,0.5,1,easy,GTW4
+rahul tewatia,GT,14,Liam Livingstone,RCB,10.5,1,Moderate,GTA2
+nitish kumar reddy,SRH,15,Angkrish Raghuvanshi,KKR,11.1,1,easy,SRHA1
+andre russell,KKR,15,Kamindu Mendis,SRH,2.6,2,easy,KKRA6
+akash deep,LSG,16,Tilak Varma,MI,15.2,2,Hard,LSGO2
+ms dhoni,CSK,17,Abishek Porel,DC,1.4,1,Moderate,CSKW2
+mukesh choudhary,CSK,17,K L Rahul,DC,18.3,1,easy,CSKO5
+yuzvendra chahal,PBKS,18,Shimron Hetmyer,RR,16.5,1,easy,PBKSO3
+marco jansen,PBKS,18,Riyan Parag,RR,17.4,1,Hard,PBKSA9
+dhruv jurel,RR,18,Nehal Wadhera,PBKS,4.4,2,Moderate,RRW2
+krunal pandya,RCB,20,Surya Kumar Yadav,MI,10.5,2,Moderate,RCBA1
+yash dayal,RCB,20,Surya Kumar Yadav,MI,11.2,2,Moderate,RCBO5
+khaleel ahmed,CSK,22,Priyansh Arya,PBKS,0.2,1,Hard,CSKO8
+vijay shankar,CSK,22,Marcus Stoinis,PBKS,4.2,1,Hard,CSKA4
+ravichandran ashwin,CSK,22,Priyansh Arya,PBKS,5.3,1,Hard,CSKA9
+mukesh choudhary,CSK,22,Priyansh Arya,PBKS,11.2,1,easy,CSKO5
+rachin ravindra,CSK,22,Shashank Singh,PBKS,16.4,1,easy,CSKA2
+yuzvendra chahal,PBKS,22,Devon Conway,CSK,11.1,2,Moderate,PBKSO3
+yash thakur,PBKS,22,Devon Conway,CSK,11.2,2,easy,PBKSO6
+lockie ferguson,PBKS,22,Shivam Dube,CSK,14.4,2,easy,PBKSO09
+yash thakur,PBKS,22,MS Dhoni,CSK,18.2,2,easy,PBKSO6
+shubham dubey,RR,23,Sai Sudharsan,GT,17.6,1,easy,RRB4
+rahul tewatia,GT,23,Shimron Hetmyer,RR,8.1,2,Hard,GTA2
+arshad khan,GT,23,Shimron Hetmyer,RR,14.1,2,Hard,GTA9
+faf du plessis,DC,24,Rajat Patidar,RCB,7.2,1,Hard,DCB1
+rajat patidar,RCB,24,K L Rahul,DC,3.2,2,Hard,RCBB2
+sunil narine,KKR,25,Vijay Shankar,CSK,4.3,1,easy,KKRA5
+venkatesh iyer,KKR,25,Vijay Shankar,CSK,7.2,1,easy,KKRA3
+anshul kamboj,CSK,25,Quinton De Kock,KKR,2.1,2,Hard,CSKA7
+vijay shankar,CSK,25,Ajinkya Rahane,KKR,8.2,2,Moderate,CSKA4
+abdul samad,LSG,26,Sai Sudharsan,GT,10.2,1,Moderate,LSGA3
+washington sundar,GT,26,Ayush Badoni,LSG,15.1,2,easy,GTA12
+yuzvendra chahal,PBKS,27,Abhishek Sharma,SRH,7.1,2,Hard,PBKSO3
+yash dayal,RCB,28,Riyan Parag,RR,9.5,1,Moderate,RCBO5
+phil salt,RCB,28,Yashasvi Jaiswal,RR,12.6,1,Hard,RCBW1
+virat kohli,RCB,28,Dhruv Jurel,RR,16.6,1,easy,RCBB1
+riyan parag,RR,28,Virat Kolhi,RCB,3.1,2,Moderate,RRA1
+sandeep sharma,RR,28,Phil Salt,RCB,3.5,2,Hard,RRO11
+yashasvi jaiswal,RR,28,Phil Salt,RCB,5.3,2,Moderate,RRB3
+maheesh theekshana,RR,28,Devdutt Padikkal,RCB,15.6,2,Moderate,RRO6
+tristan stubbs,DC,29,Tilak Varma,MI,12.4,1,Hard,DCW1
+axar patel,DC,29,Naman Dhir,MI,17.4,1,Hard,DCA3
+ashutosh sharma,DC,29,Tilak Varma,MI,18.2,1,Moderate,DCA1
+will jacks,MI,29,Abishek Porel,DC,8.1,2,Hard,MIA4
+shaik rasheed,CSK,30,Rishabh Pant,LSG,18.5,1,Hard,CSKB3
+abdul samad,LSG,30,Rahul Tripathi,CSK,6.3,2,easy,LSGA3
+ravi bishnoi,LSG,30,MS Dhoni,CSK,18.3,2,Moderate,LSGO1
+riyan parag,RR,32,Tristan Stubbs,DC,15.6,1,Hard,RRA1
+maheesh theekshana,RR,32,Tristan Stubbs,DC,19.6,1,easy,RRO6
+mohit sharma,DC,32,Sanju Samson,RR,4.5,2,Moderate,DCO4
+mohit sharma,DC,32,Yashasvi Jaiswal,RR,10.3,2,Hard,DCO4
+sameer rizvi,DC,32,Dhruv Jurel,RR,18.2,2,Moderate,DCB3
+will jacks,MI,33,Abhishek Sharma,SRH,0.1,1,Moderate,MIA4
+karn sharma,MI,33,Travis Head,SRH,0.4,1,Hard,MIO4
+travis head,SRH,33,Will jacks,MI,4.6,2,Moderate,SRHB2
+rashid khan,GT,35,Axar Patel,DC,16.1,1,Moderate,GTA7
+vipraj nigam,DC,35,Jos Buttler,GT,14.5,2,Hard,DCO1
+shubham dubey,RR,36,Nicholas Pooran,LSG,4.4,1,Moderate,RRB4
+prince yadav,LSG,36,Vaibhav Suryavanshi,RR,1.6,2,Hard,LSGO6
+david miller,LSG,36,Shubham Dubey,RR,19.5,2,Moderate,LSGB2
+yash dayal,RCB,37,Shashank Singh,PBKS,18.6,1,Moderate,RCBO5
+jasprit bumrah,MI,38,Shivam Dube,CSK,15.3,1,Hard,MIO1
+ayush mhatre,CSK,38,Surya Kumar Yadav,MI,11.3,2,Hard,CSKB5
+rachin ravindra,CSK,38,Rohit Sharma,MI,12.1,2,Hard,CSKA2
+khaleel ahmed,CSK,38,Rohit Sharma,MI,13.6,2,Moderate,CSKO8
+vaibhav arora,KKR,39,Jos Buttler,RR,14.4,1,Moderate,KKRO3
+manish pandey,KKR,39,Jos Buttler,RR,15.2,1,Hard,KKRB1
+shahrukh khan,GT,39,Rinku Singh ,KKR,17.4,2,Hard,GTA1
+abishek porel,DC,40,Mitchell Marsh,LSG,4.2,1,Hard,DCW2
+mitchell starc,DC,40,Aiden Markram,LSG,7.2,1,Hard,DCO8
+tristan stubbs,DC,40,Ayush Badoni,LSG,15.2,1,Hard,DCW1
+david miller,LSG,40,Abishek Porel,DC,0.1,2,Hard,LSGB2
+prince yadav,LSG,40,Axar Patel,DC,16.3,2,easy,LSGO6
+surya kumar yadav,MI,41,Abhinav Manohar,SRH,18.2,1,Moderate,MIB2
+nitish kumar reddy,SRH,41,Surya Kumar Yadav,MI,15.4,2,Moderate,SRHA1
+riyan parag,RR,42,Phil Salt,RCB,1.2,1,Hard,RRA1
+tushar deshpande,RR,42,Devdutt Padikkal,RCB,12.5,1,Hard,RRO2
+harshal patel,SRH,43,Ravindra Jadeja,CSK,6.6,1,easy,SRHO4
+harshit rana,KKR,44,Prabhsimran Singh,PBKS,13.1,1,Hard,KKRO4
+vaibhav arora,KKR,44,Shreyas Iyer,PBKS,17.3,1,Moderate,KKRO3
+abishek porel,DC,46,Krunal Pandya,RCB,15.6,2,Moderate,DCW2
+tristan stubbs,DC,46,Krunal Pandya,RCB,17.1,2,Hard,DCW1
+shimron hetmyer,RR,47,Sai Sudharsan,GT,1.5,1,easy,RRB2
+vaibhav suryavanshi,RR,47,Shubman Gill,GT,6.4,1,Hard,RRB1
+jos buttler,GT,47,Yashasvi Jaiswal,RR,1.1,2,Moderate,GTW4
+mohammed siraj,GT,47,Riyan Parag,RR,15.2,2,Hard,GTO8
+matheesha pathirana,CSK,49,Prabhsimran Singh,PBKS,12.3,2,easy,CSKO4
+rohit sharma,MI,50,Nitish Rana,RR,2.5,2,Hard,MIB1
+jasprit bumrah,MI,50,Maheesh Theekshana,RR,10.6,2,Hard,MIO1
+tilak varma,MI,50,Akash Madhwal,RR,13.3,2,Hard,MIB3
+jaydev unadkat,SRH,51,Jos Buttler,GT,7.5,1,Moderate,SRHO8
+pat cummins,SRH,51,Jos Buttler,GT,11.5,1,Moderate,SRHO2
+rahul tewatia,GT,51,Heinrich Klaasen,SRH,12.5,2,Hard,GTA2
+matheesha pathirana,CSK,52,Jacob Bethell,RCB,3.5,1,Moderate,CSKO4
+ayush mhatre,CSK,52,Tim David,RCB,17.2,1,Hard,CSKB5
+lungisani ngidi,RCB,52,Ravindra Jadeja,CSK,10.3,2,Hard,RCBO10
+devdutt padikkal,RCB,52,Ayush Mhatre,CSK,15.3,2,Moderate,RCBB6
+lungisani ngidi,RCB,52,Ravindra Jadeja,CSK,15.6,2,easy,RCBO10
+tim david,RCB,52,Ravindra Jadeja,CSK,17.5,2,Hard,RCBB4
+virat kohli,RCB,52,Ravindra Jadeja,CSK,18.1,2,Moderate,RCBB1
+jofra archer,RR,53,Andre Russell,KKR,18.6,1,Hard,RRO9
+nicholas pooran,LSG,54,Prabhsimran Singh,PBKS,5.3,1,Moderate,LSGW2
+shreyas iyer,PBKS,54,Avesh Khan,LSG,19.6,2,Moderate,PBKSB3
+sai sudharsan,GT,56,Will jacks,MI,0.4,1,Moderate,GTB1
+sai kishore,GT,56,Surya Kumar Yadav,MI,4.5,1,Moderate,GTA8
+mohammed siraj,GT,56,Will jacks,MI,5.5,1,easy,GTO8
+shubman gill,GT,56,Surya Kumar Yadav,MI,7.4,1,Hard,GTB2
+tilak varma,MI,56,Shubman Gill,GT,11.2,2,Moderate,MIB3
+matheesha pathirana,CSK,57,Ajinkya Rahane,KKR,3.6,1,Moderate,CSKO4
+ayush mhatre,CSK,57,Manish pandey,KKR,11.6,1,Hard,CSKB5
+ms dhoni,CSK,57,Ramandeep Singh,KKR,19.3,1,Hard,CSKW2
+fazalhaq farooqi,RR,59,Priyansh Arya,PBKS,1.4,1,Hard,RRO7
+wanindu hasaranga,RR,59,Nehal Wadhera,PBKS,11.5,1,Hard,RRA2
+vaibhav suryavanshi,RR,59,Shashank Singh,PBKS,19.6,1,Hard,RRB1
+sai kishore,GT,60,K L Rahul,DC,13.1,1,Hard,GTA8
+rohit sharma,MI,63,Vipraj Nigam,DC,5.6,2,easy,MIB1
+will jacks,MI,63,Sameer Rizvi,DC,10.4,2,Moderate,MIA4
+mitchell santner,MI,63,Sameer Rizvi,DC,11.5,2,Hard,MIA6
+mohammed siraj,GT,64,Mitchell Marsh,LSG,2.4,1,Hard,GTO8
+kagiso rabada,GT,64,Mitchell Marsh,LSG,3.3,1,Hard,GTO5
+prasidh krishna,GT,64,Mitchell Marsh,LSG,17.2,1,Hard,GTO7
+ayush badoni,LSG,64,Sherfane Rutherford,GT,11.6,2,Hard,LSGA1
+jitesh sharma,RCB,65,Ishan Kishan ,SRH,4.6,1,Moderate,RCBW2
+lungisani ngidi,RCB,65,Pat Cummins,SRH,18.6,1,Moderate,RCBO10
+mustafizur rahman,DC,66,Josh Inglis,PBKS,3.6,1,Hard,DCO7
+kuldeep yadav,DC,66,Shreyas Iyer,PBKS,14.3,1,Hard,DCO2
+karun nair,DC,66,Shashank Singh,PBKS,14.6,1,Hard,DCB2
+mohit sharma,DC,66,Marcus Stoinis,PBKS,17.1,1,easy,DCO4
+mustafizur rahman,DC,66,Marcus Stoinis,PBKS,19.6,1,Hard,DCO7
+nehal wadhera,PBKS,66,K L Rahul,DC,5.2,2,Hard,PBKSB1
+josh inglis,PBKS,66,Sediqullah Atal,DC,9.3,2,Hard,PBKSW2
+shahrukh khan,GT,67,Urvil Patel,CSK,8.2,1,easy,GTA1
+pat cummins,SRH,68,Ajinkya Rahane,KKR,4.5,2,Hard,SRHO2
+harshal patel,SRH,68,Harshit Rana,KKR,14.4,2,Moderate,SRHO4
+vijaykumar vyshak,PBKS,69,Hardik Pandya,MI,12.4,1,Hard,PBKSO4
+nehal wadhera,PBKS,69,Surya Kumar Yadav,MI,17.6,1,easy,PBKSB1
+ashwani kumar,MI,69,Prabhsimran Singh,PBKS,3.4,2,Moderate,MIO2

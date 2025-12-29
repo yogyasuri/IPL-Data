@@ -35,17 +35,18 @@ RRA1,RR,Riyan Parag,All Rounder,India,1400,Right-hand,Right Off-Spin,capped
 RRA2,RR,Wanindu Hasaranga,All Rounder,Sri Lanka,525,Right-hand,Right Leg-Spin,capped
 RRW1,RR,Sanju Samson,Wicket Keeper,India,1800,Right-hand,Right Off-Spin,capped
 RRW2,RR,Dhruv Jurel,Wicket Keeper,India,1400,Right-hand,,capped
-RRW3,RR,Kunal Singh Rathore,Wicket Keeper,India,30,Right-hand,,Uncapped
+RRW3,RR,Kunal Rathore,Wicket Keeper,India,30,Right-hand,,Uncapped
 RRW4,RR,Lhuan-dre Pretorius,Wicket Keeper,South Africa,120,Right-hand,Left Off-Spin,Uncapped
 RRO1,RR,Yudhvir Singh Charak,Bowler,India,35,Right-hand,Right Medium-Fast,Uncapped
 RRO2,RR,Tushar Deshpande,Bowler,India,625,Right-hand,Right Fast-Medium,capped
-RRO3,RR,Kumar Kartikeya,Bowler,India,30,Right-hand,Left Leg-Spin,Uncapped
+RRO3,RR,Kumar Kartikeya Singh,Bowler,India,30,Right-hand,Left Leg-Spin,Uncapped
 RRO4,RR,Akash Madhwal,Bowler,India,120,Right-hand,Right Medium-Fast,Uncapped
 RRO5,RR,Kwena Maphaka,Bowler,South Africa,150,Right-hand,Right Fast-Medium,capped
 RRO6,RR,Maheesh Theekshana,Bowler,Sri Lanka,440,Right-hand,Right Off-Spin,capped
 RRO7,RR,Fazalhaq Farooqi,Bowler,Afghanistan,200,Left-hand,Left Medium-Fast,capped
 RRO8,RR,Ashok Sharma,Bowler,India,30,Right-hand,Right Fast-Medium,Uncapped
 RRO9,RR,Jofra Archer,Bowler,England,1250,Right-hand,Right Fast,capped
+RRO11,RR,Sandeep Sharma,Bowler,India,400,Right-hand,Right Medium-Fast,capped
 RRO10,RR,Nandre Burger,Bowler,South Africa,50,Left-hand,Left Fast-Medium,capped
 LSGB1,LSG,Himmat Singh,Batter,India,30,Right-hand,Right Off-Spin,Uncapped
 LSGB2,LSG,David Miller,Batter,South Africa,750,Left-hand,Right Off-Spin,capped
@@ -58,7 +59,7 @@ LSGA5,LSG,Yuvraj Chaudhary,All Rounder,India,30,Left-hand,Left Off-Spin,Uncapped
 LSGA6,LSG,Shahbaz Ahmed,All Rounder,India,240,Left-hand,Left Off-Spin,Uncapped
 LSGA7,LSG,RS Hangargekar,All Rounder,India,30,Right-hand,Right Medium-Fast,Uncapped
 LSGA8,LSG,Shardul Thakur,All Rounder,India,30,Right-hand,Right Medium-Fast,capped
-LSGW1,LSG,Matthew Breetzke,Wicket Keeper,South Africa,75,Right-hand,,capped
+LSGW1,LSG,Mathew Breetzke,Wicket Keeper,South Africa,75,Right-hand,,capped
 LSGW2,LSG,Nicholas Pooran,Wicket Keeper,West Indies,2100,Left-hand,Right Off-Spin,Elite
 LSGW3,LSG,Aryan Juyal,Wicket Keeper,India,30,Right-hand,,Uncapped
 LSGW4,LSG,Rishabh Pant,Wicket Keeper,India,2700,Left-hand,,Elite
@@ -99,7 +100,7 @@ GTO6,GT,Kulwant Khejroliya,Bowler,India,30,Left-hand,Left Medium-Fast,Uncapped
 GTO7,GT,Prasidh Krishna,Bowler,India,950,Right-hand,Right Fast,capped
 GTO8,GT,Mohammed Siraj,Bowler,India,1225,Right-hand,Right Fast-Medium,capped
 MIB1,MI,Rohit Sharma,Batter,India,1630,Right-hand,Right Off-Spin,Elite
-MIB2,MI,Suryakumar Yadav,Batter,India,1635,Right-hand,Right Off-Spin,Elite
+MIB2,MI,Surya kumar Yadav,Batter,India,1635,Right-hand,Right Off-Spin,Elite
 MIB3,MI,Tilak Varma,Batter,India,800,Left-hand,Right Off-Spin,capped
 MIB4,MI,Naman Dhir,Batter,India,535,Right-hand,Right Off-Spin,capped
 MIA1,MI,Bevon Jacobs,All Rounder,South Africa,30,Right-hand,Right Medium,capped
@@ -119,10 +120,11 @@ MIO2,MI,Ashwani Kumar,Bowler,India,30,Left-hand,Left Medium-Fast,Uncapped
 MIO3,MI,Reece Topley,Bowler,England,75,Left-hand,Left Medium-Fast,capped
 MIO4,MI,Karn Sharma,Bowler,India,50,Right-hand,Right Leg-Spin,capped
 MIO5,MI,Trent Boult,Bowler,New Zealand,1250,Left-hand,Left Fast-Medium,capped
-MIO6,MI,Satyanarayana Raju,Bowler,India,30,Left-hand,Right Medium-Fast,Uncapped
+MIO6,MI,V Satyanarayana Penmetsa,Bowler,India,30,Left-hand,Right Medium-Fast,Uncapped
 MIO7,MI,Deepak Chahar,Bowler,India,925,Right-hand,Right Medium-Fast,capped
 MIO8,MI,Mujeeb Ur Rahman,Bowler,Afghanistan,200,Right-hand,Right Leg-Spin,capped
 MIO9,MI,Raghu Sharma,Bowler,India,30,Right-hand,Right Leg-Spin,Uncapped
+MIO11,MI,Vignesh Puthur,Bowler,India,30,Right-hand,Right Medium-Fast,Uncapped
 MIO10,MI,Lizaad Williams,Bowler,West Indies,75,Left-hand,Right Medium-Fast,capped
 PBKSB1,PBKS,Nehal Wadhera,Batter,India,420,Left-hand,Right Leg-Spin,capped
 PBKSB2,PBKS,Harnoor Singh,Batter,India,30,Right-hand,,Uncapped
@@ -155,7 +157,7 @@ DCB1,DC,Faf du Plessis,Batter,South Africa,200,Right-hand,Right Off-Spin,capped
 DCB2,DC,Karun Nair,Batter,India,50,Right-hand,Right Off-Spin,capped
 DCB3,DC,Sameer Rizvi,Batter,India,95,Right-hand,Right Off-Spin,capped
 DCB4,DC,Sediqullah Atal,Batter,Afghanistan,125,Left-hand,,capped
-DCB5,DC,Jake Frazer-McGurk,Batter,Australia,900,Right-hand,Right Off-Spin,capped
+DCB5,DC,Jake Frazer McGurk,Batter,Australia,900,Right-hand,Right Off-Spin,capped
 DCA1,DC,Ashutosh Sharma,All Rounder,India,380,Right-hand,Right Off-Spin,capped
 DCA2,DC,Tripurana Vijay,All Rounder,India,30,Right-hand,Right Off-spin,Uncapped
 DCA3,DC,Axar Patel,All Rounder,India,1650,Left-hand,Left Off-Spin,Elite
@@ -166,7 +168,7 @@ DCA7,DC,Madhav Tiwari,All Rounder,India,40,Right-hand,Right Medium-Fast,Uncapped
 DCW1,DC,Tristan Stubbs,Wicket Keeper,South Africa,1000,Right-hand,Right Off-Spin,capped
 DCW2,DC,Abishek Porel,Wicket Keeper,India,400,Left-hand,Left Off-Spin,Uncapped
 DCW3,DC,Donovan Ferreira,Wicket Keeper,South Africa,75,Right-hand,Right Off-spin,capped
-DCW4,DC,KL Rahul,Wicket Keeper,India,1400,Right-hand,Right Off-Spin,Elite
+DCW4,DC,K L Rahul,Wicket Keeper,India,1400,Right-hand,Right Off-Spin,Elite
 DCO1,DC,Vipraj Nigam,Bowler,India,50,Right-hand,Right Leg-Spin,Uncapped
 DCO2,DC,Kuldeep Yadav,Bowler,India,1325,Left-hand,Left Leg-Spin,Elite
 DCO3,DC,Dushmantha Chameera,Bowler,Sri Lanka,75,Right-hand,Right Medium-Fast,capped
@@ -199,7 +201,7 @@ RCBO5,RCB,Yash Dayal,Bowler,India,500,Left-hand,Left Medium-Fast,capped
 RCBO6,RCB,Nuwan Thushara,Bowler,Sri Lanka,160,Right-hand,Right Medium-Fast,capped
 RCBO7,RCB,Abhinandan Singh,Bowler,India,30,Right-hand,Right Medium-Fast,Uncapped
 RCBO8,RCB,Blessing Muzarabani,Bowler,Zimbabwe,75,Right-hand,Right Fast-Medium,Uncapped
-RCBO10,RCB,Lungi Ngidi,Bowler,South Africa,100,Right-hand,Right Fast-Medium,capped
+RCBO10,RCB,Lungisani Ngidi,Bowler,South Africa,100,Right-hand,Right Fast-Medium,capped
 SRHB1,SRH,Atharva Taide,Batter,India,30,Left-hand,Left Off-Spin,Uncapped
 SRHB2,SRH,Travis Head,Batter,Australia,1400,Left-hand,Right Off-Spin,Elite
 SRHB3,SRH,Abhinav Manohar,Batter,India,320,Right-hand,Right Leg-Spin,capped
@@ -214,7 +216,7 @@ SRHW1,SRH,Heinrich Klaasen,Wicket Keeper,South Africa,2300,Right-hand,Right Off-
 SRHW2,SRH,Ishan Kishan,Wicket Keeper,India,1125,Left-hand,Right Off-Spin,capped
 SRHO1,SRH,Zeeshan Ansari,Bowler,India,40,Right-hand,Right Leg-Spin,Uncapped
 SRHO2,SRH,Pat Cummins,Bowler,Australia,1800,Right-hand,Right Fast,Elite
-SRHO3,SRH,Mohammed Shami,Bowler,India,1000,Right-hand,Right Fast-Medium,capped
+SRHO3,SRH,Mohammad Shami,Bowler,India,1000,Right-hand,Right Fast-Medium,capped
 SRHO4,SRH,Harshal Patel,Bowler,India,800,Right-hand,Right Medium-Fast,capped
 SRHO5,SRH,Rahul Chahar,Bowler,India,320,Right-hand,Right Leg-Spin,capped
 SRHO6,SRH,Simarjeet Singh,Bowler,India,150,Right-hand,Right Medium-Fast,Uncapped
@@ -242,3 +244,4 @@ KKRO4,KKR,Harshit Rana,Bowler,India,400,Right-hand,Right Fast,capped
 KKRO5,KKR,Anrich Nortje,Bowler,South Africa,650,Right-hand,Right Fast,capped
 KKRO6,KKR,Spencer Johnson,Bowler,Australia,280,Left-hand,Left Fast,capped
 KKRO7,KKR,Umran Malik,Bowler,India,75,Right-hand,Right Fast,capped
+KKRO8,KKR,Chetan Sakariya,Bowler,India,30,Right-hand,Right Medium-fast,Uncapped
